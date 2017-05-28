@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listings>
+    <listing>
+        <id>FN100</id>  
+        <departureDate>10/07/17</departureDate>    
+        <departureTime>10:00</departureTime>
+        <returnDate>17/07/17</returnDate>    
+        <returnTime>14:30</returnTime>    
+        <price>$550</price>
+        <seats>8</seats>
+        <origin>Sydney</origin>
+        <destination>Gold coast</destination>
+        <type>Business</type>
+    </listing>
+</listings>

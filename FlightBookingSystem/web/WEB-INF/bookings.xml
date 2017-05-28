@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+<bookings>
+    <booking>
+        <bookingId>BN100</bookingId>
+        <flightId>FN101</flightId>
+        <customer>Alex</customer>
+    </booking>
+       <booking>
+        <bookingId>BN101</bookingId>
+        <flightId>FN102</flightId>
+        <customer>Michael</customer>
+    </booking>       
+    <booking>
+        <bookingId>BN103</bookingId>
+        <flightId>FN101</flightId>
+        <customer>Terry</customer>
+    </booking>
+</bookings>

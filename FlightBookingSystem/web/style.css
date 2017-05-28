@@ -1,0 +1,97 @@
+
+.header img {
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+}
+
+.header h1 {
+    float: left;
+    font-family: "Pinyon Script";
+    font-size: 55px;
+    font-style: italic;
+    color:#000;
+    font-weight: 400;
+}
+
+#navbar{
+    position:relative;
+    display:block;
+    height:39px;
+    font-size:16px;
+    font-weight:bold;
+    font-family:Arial,Verdana,Helvitica,sans-serif;
+    border-top:4px solid #B30000;
+
+}
+
+#navbar ul{
+    margin:0;
+    padding:0;
+    list-style-type:none;
+    width:auto;
+    float: right;
+}
+
+#navbar ul li{
+    font-family: "Pinyon Script";
+    display:block;
+    float:left;
+    margin:0;
+}
+
+#navbar ul li a{
+    display:block;
+    float:left;
+    text-decoration:none;
+    color:#000;
+    padding:11px 20px 0 20px;
+    height:23px;
+}
+
+#navbar ul li a:hover,#navbar ul li a.current{
+    color:#B30000;
+}
+
+.caption {
+    background-color: #080808;
+    color: white;
+    display: block;
+    width: 100%;
+    height: 55px;
+    padding-left: 10px;
+    font-size: 20px;
+    line-height: 55px;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+    box-sizing: border-box;
+}
+
+table#myTable {
+    text-align:left;
+    width:100%;
+    background-color:#000;
+}
+table#myTable, th#myTable, td#myTable {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th#myTable, td#myTable {
+    padding: 5px;
+}
+
+table#myTable tr:nth-child(even) {
+    border-bottom: 1px solid #ccc;
+    background-color: #ffeded;
+}
+table#myTable tr:nth-child(odd) {
+    border-bottom: 1px solid #ccc;
+    background-color:#fff;
+}
+table#myTable th {
+    background-color: black;
+    color: white;
+}
+
+#myInput {
+    
+}

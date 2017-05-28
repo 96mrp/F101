@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flights>
+    <flight>
+        <id>FN100</id>  
+        <departureDate>10/07/17</departureDate>    
+        <departureTime>10:00</departureTime>
+        <returnDate>17/07/17</returnDate>    
+        <returnTime>14:30</returnTime>    
+        <price>$550</price>
+        <seats>8</seats>
+        <origin>Sydney</origin>
+        <destination>Gold coast</destination>
+        <type>Business</type>
+    </flight>
+    <flight>
+        <id>FN101</id>  
+        <departureDate>12/07/17</departureDate>    
+        <departureTime>11:00</departureTime>
+        <returnDate>15/07/17</returnDate>    
+        <returnTime>09:30</returnTime>    
+        <price>$240</price>
+        <seats>20</seats>
+        <origin>Gold Coast</origin>
+        <destination>Perth</destination>
+        <type>Economy</type>
+    </flight>
+    <flight>
+        <id>FN102</id>  
+        <departureDate>11/08/17</departureDate>    
+        <departureTime>17:00</departureTime>
+        <returnDate>17/09/17</returnDate>   <!-- xsd needs to make sure dates are not in the past and that return date is after departure date--> 
+        <returnTime>11:30</returnTime>    
+        <price>$140</price>
+        <seats>15</seats>
+        <origin>Sydney</origin>
+        <destination>Darwin</destination>
+        <type>Economy</type>
+    </flight>
+    <flight>
+        <id>FN103</id>  
+        <departureDate>12/06/17</departureDate>    
+        <departureTime>10:00</departureTime>
+        <returnDate>12/07/17</returnDate>    
+        <returnTime>14:30</returnTime>    
+        <price>$400</price>
+        <seats>20</seats>
+        <origin>Sydney</origin>
+        <destination>Melbourne</destination>
+        <type>Business</type>
+    </flight>
+    <flight>
+        <id>FN104</id>  
+        <departureDate>03/06/17</departureDate>    
+        <departureTime>10:00</departureTime>
+        <returnDate>17/06/17</returnDate>    
+        <returnTime>14:30</returnTime>    
+        <price>$120</price>
+        <seats>20</seats>
+        <origin>Sydney</origin>
+        <destination>Gold coast</destination>
+        <type>Economy</type>
+    </flight>
+</flights>
+
+    <!--  WE CAN ADD IN MORE DATA ONCE WE HAVE A WORKING SOLUTION -->
+

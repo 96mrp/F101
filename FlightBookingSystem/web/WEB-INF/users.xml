@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>      
+        <name>alex</name>
+        <email>atsim@gmail.com</email>
+        <password>f1</password>
+        <DOB>25/10/1995</DOB>
+        <admin>Yes</admin>
+    </user>
+    <user>      
+        <name>michael</name>
+        <email>mp@gmail.com</email>
+        <password>f2</password>
+        <DOB>25/10/1996</DOB>
+        <admin>Yes</admin>
+    </user>
+    <user>      
+        <name>terry</name>
+        <email>tfan@gmail.com</email>
+        <password>f3</password>
+        <DOB>25/10/1997</DOB>
+        <admin>Yes</admin>
+    </user>
+    <user>      
+        <name>cody</name>
+        <email>cd@gmail.com</email>
+        <password>f4</password>
+        <DOB>25/10/1995</DOB>
+        <admin>No</admin>
+    </user>
+    <user>      
+        <name>jesse</name>
+        <email>j@gmail.com</email>
+        <password>flight101</password>
+        <DOB>25/10/1998</DOB>
+        <admin>No</admin>
+    </user>
+</users>
