@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
- 
+
+<!--
+
+Bookings can't be manually created.
+ID must be auto generated, flightID as per selected flight, customer as per user.xml/name.
+
+For admin - show whole bookings.xml (via xsl)
+For customers - show enties where customer = customer.
+
+
+-->
+
+
 <bookings>
     <booking>
         <bookingId>BN100</bookingId>
@@ -9,7 +21,7 @@
        <booking>
         <bookingId>BN101</bookingId>
         <flightId>FN102</flightId>
-        <customer>Michael</customer>
+        <customer>Michael</customer> 
     </booking>       
     <booking>
         <bookingId>BN103</bookingId>
