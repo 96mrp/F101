@@ -48,8 +48,8 @@
                     <td><input type="email" name = "email"></td>
                 </tr>
                 <tr>
-                    <td>DOB: </td>
-                    <td><input type="text" name = "DOB" ></td>
+                    <td>Date of birth: </td>
+                    <td><input type="date" name = "DOB" ></td>
                 </tr>
                 <tr>
                     <td>Password: </td>
